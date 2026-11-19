@@ -1,0 +1,6 @@
+data_raw/
+output/clean/
+*.duckdb
+*.zip
+powerbi_tables/
+Interview_Prep.md

@@ -1,0 +1,13 @@
+{
+  "name": "Black and White",
+  "dataColors": ["#3A3A3A", "#B0B0B0", "#000000", "#7F7F7F", "#D9D9D9", "#595959", "#A6A6A6", "#262626"],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#000000",
+  "good": "#3A3A3A",
+  "neutral": "#A6A6A6",
+  "bad": "#000000",
+  "maximum": "#000000",
+  "center": "#A6A6A6",
+  "minimum": "#F2F2F2"
+}
